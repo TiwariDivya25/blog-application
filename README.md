@@ -2,7 +2,11 @@
 
 A full-stack blogging platform built with **Django REST Framework** (backend) and **React + Vite** (frontend). Users can sign up, log in, create posts, and read posts from other users.
 
-![DevBlog Screenshot](https://github.com/user-attachments/assets/551dd5c4-25a6-4015-acc8-7706b74a9a2a)
+<img width="1365" height="635" alt="Screenshot 2026-05-25 170857" src="https://github.com/user-attachments/assets/cccdf404-d39d-43d6-8b35-8c934704f51e" />
+
+<img width="1365" height="634" alt="Screenshot 2026-05-25 171912" src="https://github.com/user-attachments/assets/51584881-4c3f-4e45-bf00-4f3b82469768" />
+
+<img width="761" height="329" alt="Screenshot 2026-05-25 171456" src="https://github.com/user-attachments/assets/eba22e74-e289-4dc5-a8ab-cd410bc12c77" />
 
 ---
 
